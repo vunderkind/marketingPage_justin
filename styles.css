@@ -56,11 +56,11 @@ li {
   }
 
   .jumbo.text {
-      padding-top: 4em;
       padding-left: 5em;
       display:flex;
       flex-direction:column;
       justify-content: unset;
+      padding-top: 3em;
   }
 
   .jumbo-image {
@@ -107,18 +107,19 @@ li {
   }
 
   #intro-text {
-      font-size: 0.9em;
+      padding: 0 0;
   }
+
   button {
       background: linear-gradient(to bottom left, #d10c2c,#d83e58 );
       border-radius: 25px;
       padding: 3% 8%;
-      margin-top: 2em;
       border-style: none;
       font-family: 'Alegreya', sans-serif;
       color: white;
       font-size: 1em;
       width:40%;
+      margin-top: 1em;
   }
 
     button:hover {
