@@ -51,7 +51,7 @@ li {
       flex-direction: row-reverse;
       justify-content: space-between;
       background-color: #fff;
-      background-image: url("./background.jpg");
+      background-image: url("img/background.jpg");
       padding-bottom: 1em;
   }
 
